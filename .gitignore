@@ -18,3 +18,5 @@ public_html/hot
 storage/*.key
 .env
 .phpunit.result.cache
+
+*.code-workspace
