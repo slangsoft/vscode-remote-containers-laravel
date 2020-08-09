@@ -1,0 +1,28 @@
+{
+    "name": "test",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": null,
+        "workbench.startupEditor": "newUntitledFile",
+        "editor.minimap.enabled": true,
+        "vsicons.dontShowNewVersionMessage": true,
+        "explorer.confirmDelete": false,
+        "files.autoSave": "afterDelay"
+    },
+    "appPort": [ 8000, 27017 ],
+    "remoteUser": "vscode",
+    "workspaceFolder": "/var/www/html",
+    "extensions": [
+        "alefragnani.bookmarks",
+        "mikestead.dotenv",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "onecentlin.laravel-blade",
+        "austenc.laravel-blade-spacer",
+        "onecentlin.laravel5-snippets",
+        "cjhowe7.laravel-blade",
+        "felixfbecker.php-pack",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
